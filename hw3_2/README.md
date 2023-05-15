@@ -1,4 +1,5 @@
 #Q2
+
 跑模擬請進到stratus資料夾
 
 Run SystemC-based simulation  
